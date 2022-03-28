@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167.59 15.97">
+  <defs>
+    <linearGradient id="a" x1="14.41" x2="145.62" y1="7.5" y2="11.86" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fceeae"/>
+      <stop offset=".36" stop-color="#e09e5b"/>
+      <stop offset=".53" stop-color="#bb7239"/>
+      <stop offset=".64" stop-color="#d08a4a"/>
+      <stop offset=".82" stop-color="#e5b775"/>
+      <stop offset="1" stop-color="#fce9a4"/>
+    </linearGradient>
+    <linearGradient id="b" x1="71.75" x2="89.08" y1="-4.76" y2="25.07" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6c486"/>
+      <stop offset=".15" stop-color="#bb7239"/>
+      <stop offset=".3" stop-color="#f7e4a4"/>
+      <stop offset=".59" stop-color="#e09e5b"/>
+      <stop offset=".71" stop-color="#fce9a4"/>
+      <stop offset=".88" stop-color="#d08a4a"/>
+      <stop offset="1" stop-color="#e1bd7c"/>
+    </linearGradient>
+    <linearGradient id="c" x1="83.93" x2="83.68" y1="6.5" y2="24.25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fceeae"/>
+      <stop offset=".32" stop-color="#e09e5b"/>
+      <stop offset=".53" stop-color="#d08a4a"/>
+      <stop offset=".7" stop-color="#d69857"/>
+      <stop offset=".97" stop-color="#fce9a4"/>
+    </linearGradient>
+  </defs>
+  <g data-name="Calque 2">
+    <g data-name="—ëîé_1">
+      <path fill="url(#a)" d="M153.39 15.94h-48.61l-6.47-6.48h-29l-6.47 6.48H14.2l-.33-.37a23.75 23.75 0 0 0-4.12-3.7 23.79 23.79 0 0 0-4.57-2.49L0 7.27h68.37L74 1.69l1.5 1.55-4 4h24.61l-4-4 1.55-1.55 5.58 5.58h68.37l-5.18 2.11a23.79 23.79 0 0 0-4.57 2.49 24.18 24.18 0 0 0-4.13 3.7Zm-47.69-2.2h46.7a25.63 25.63 0 0 1 4.18-3.67l.91-.61h-56.07Zm-90.51 0h46.7l4.28-4.28H10.1l.91.61a25.63 25.63 0 0 1 4.18 3.67Z"/>
+      <path fill="url(#b)" d="M99.77 15.97h-1.7L83.8 1.7 69.52 15.97h-1.7L83.8 0l15.97 15.97z"/>
+      <path fill="url(#c)" d="M91.97 15.97h-1.69L83.8 9.49l-6.48 6.48h-1.7L83.8 7.8l8.17 8.17z"/>
+    </g>
+  </g>
+</svg>

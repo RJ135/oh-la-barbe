@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 164.54 22.23">
+  <defs>
+    <linearGradient id="a" x1="97.41" x2="80.41" y1="13.99" y2="18.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bb7239"/>
+      <stop offset=".23" stop-color="#fceeae"/>
+      <stop offset=".52" stop-color="#e09e5b"/>
+      <stop offset=".75" stop-color="#fce9a4"/>
+      <stop offset=".83" stop-color="#f1d693"/>
+      <stop offset=".92" stop-color="#e1bd7c"/>
+      <stop offset="1" stop-color="#d08a4a"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="b" x1="92.37" x2="75.37" y1="-6.19" y2="-1.94"/>
+    <linearGradient xlink:href="#a" id="c" x1="93.1" x2="76.1" y1="-3.26" y2=".99" gradientTransform="rotate(45 63.62920595 4.10608007)"/>
+    <linearGradient xlink:href="#a" id="d" x1="95.27" x2="78.27" y1="5.45" y2="9.7" gradientTransform="rotate(45 100.63919041 4.10611757)"/>
+    <linearGradient xlink:href="#a" id="e" x1="8.66" x2="151.16" y1="-1.22" y2="24.78"/>
+    <linearGradient id="f" x1="33.88" x2="126.38" y1="-23.81" y2="23.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bb7239"/>
+      <stop offset=".23" stop-color="#fceeae"/>
+      <stop offset=".58" stop-color="#e09e5b"/>
+      <stop offset=".79" stop-color="#fce9a4"/>
+      <stop offset=".83" stop-color="#f1d693"/>
+      <stop offset=".92" stop-color="#e1bd7c"/>
+      <stop offset="1" stop-color="#d08a4a"/>
+    </linearGradient>
+  </defs>
+  <g data-name="Calque 2">
+    <g data-name="—ëîé_1">
+      <path fill="url(#a)" d="M85.31 6.51h79.23v1.2H85.31z"/>
+      <path fill="url(#b)" d="M0 6.51h78.31v1.2H0z"/>
+      <path fill="url(#c)" d="M63.03-.15h1.2v8.51h-1.2z" transform="rotate(-45 63.62126222 4.10721033)"/>
+      <path fill="url(#d)" d="M96.37 3.51h8.51v1.2h-8.51z" transform="rotate(-45 100.63124669 4.10717282)"/>
+      <path fill="url(#e)" d="m82.13 22.23-8.94-8.94H0v-2.2h74.1l8.03 8.02 8.02-8.02h74.1v2.2H91.07l-8.94 8.94z"/>
+      <path fill="url(#f)" d="m82.13 12-9.8-9.8H18.27V0h54.97l8.89 8.89L91.02 0h54.97v2.2H91.93l-9.8 9.8z"/>
+    </g>
+  </g>
+</svg>
